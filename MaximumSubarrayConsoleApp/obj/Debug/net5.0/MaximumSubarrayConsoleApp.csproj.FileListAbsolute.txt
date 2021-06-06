@@ -1,0 +1,16 @@
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.exe
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.deps.json
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.runtimeconfig.json
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.runtimeconfig.dev.json
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.dll
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\ref\MaximumSubarrayConsoleApp.dll
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\bin\Debug\net5.0\MaximumSubarrayConsoleApp.pdb
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.csprojAssemblyReference.cache
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.AssemblyInfoInputs.cache
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.AssemblyInfo.cs
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.dll
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\ref\MaximumSubarrayConsoleApp.dll
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.pdb
+C:\Users\orhan\source\repos\MaximumSubarrayConsoleApp\MaximumSubarrayConsoleApp\obj\Debug\net5.0\MaximumSubarrayConsoleApp.genruntimeconfig.cache

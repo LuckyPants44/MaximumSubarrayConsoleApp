@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\orhan\\source\\repos\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\orhan\\source\\repos\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orhan\\source\\repos\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp.csproj",
+        "projectName": "MaximumSubarrayConsoleApp",
+        "projectPath": "C:\\Users\\orhan\\source\\repos\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\orhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orhan\\source\\repos\\MaximumSubarrayConsoleApp\\MaximumSubarrayConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\orhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
